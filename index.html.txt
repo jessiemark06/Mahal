@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mahal kita</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 90%;
+            text-align: center;
+        }
+
+        .message {
+            color: #333;
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+
+        .github-link {
+            display: inline-block;
+            padding: 10px 20px;
+            color: #fff;
+            background-color: #24292e;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 16px;
+        }
+
+        .github-link:hover {
+            background-color: #444;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p class="message">
+            Sa Oras na to ako ang pinakamasaya na tao sa buong mundo. 
+            Hindi ko aakalain na sasagutin mo ko sa araw na to.
+            Galing sa pinakamagandang babae na Kilala ko.
+            <br><br>
+            Hindi ko maipaliwanag ang saya na aking nararamdaman.
+            Sapagkat sinta Ika'y Ang aking inaasam.
+            Sinagot mo na ko at pangako Ikaw lamang.
+            <br><br>
+            Tatanggap ko ng buo kaya wag Kang mag alala dahil una palang mahal na mahal na kita.
+        </p>
+        <a href="https://github.com/your-username/your-repository" class="github-link">Visit my GitHub</a>
+    </div>
+</body>
+</html>
